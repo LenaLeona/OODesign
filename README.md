@@ -1,2 +1,2 @@
 # OODesign
-ood sample classes I have collected as studying CS5004 &amp; 5010
+My personal collection of simple and good ooDesign examples 
