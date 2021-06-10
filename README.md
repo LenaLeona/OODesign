@@ -1,2 +1,2 @@
 # OODesign
-My personal collection of simple and good ooDesign examples 
+collection of ood examples 
